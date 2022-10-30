@@ -1,0 +1,12 @@
+$ rails new apprailsvitevue
+$ bundle add vite_rails
+$ bundle exec vite install
+$ rails vite:build
+$ yarn add vue vue-router vue-loader@17.0.0
+$ git init
+$ git add .
+$ git commit -m "Initialize first app"
+=> create new repository on github
+$ git push
+$ bundle add cssbundling-rails
+$ rails css:install:tailwind
