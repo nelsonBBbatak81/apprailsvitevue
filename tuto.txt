@@ -10,3 +10,4 @@ $ git commit -m "Initialize first app"
 $ git push
 $ bundle add cssbundling-rails
 $ rails css:install:tailwind
+=> install tailwind cssbundling
